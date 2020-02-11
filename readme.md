@@ -21,5 +21,6 @@ Ans: git show abc123
 Ans:  git log --oneline -n 3	
 
 6. Assuming that you are currently within a Git repository, write the command (or commands) that will check to see if the remote repository contains any new commits.
-	Ans:  git fetch — to get data from remote
+	
+Ans:  git fetch — to get data from remote
 		git status — to compare local data with fetched remote data
