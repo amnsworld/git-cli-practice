@@ -8,3 +8,6 @@
 
 3. Assuming that you are currently within a Git repository, write the command (or commands) that will display any uncommitted changes made to the file named 'README.md'.
 	Ans:  git diff readme.md
+
+4. Assuming that you are currently within a Git repository, write the command (or commands) that will display the changes from the commit with the ID of abc123.
+	Ans: git show abc123
